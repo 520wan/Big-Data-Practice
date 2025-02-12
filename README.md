@@ -46,18 +46,25 @@ python manage.py runserver 127.0.0.1:8000
 
 - 注意 Django 项目启动应该先切入`cd manage.py所在目录`。
 - 系统中不存在后台管理员账号，可以**使用命令`python manage.py createsuperuser`创建**即可。
-  启动后更改地址为127.0.0.1:8000/login/打开系统登陆页面，如图3-3所示。
- 
-图3-3 系统登录页面
+
+启动后更改地址为127.0.0.1:8000/login/打开系统登陆页面。
+
+![img](file:///C:/WINDOWS/TEMP/msohtmlclip1/01/clip_image002.gif)
+
 输入用户名和密码后进入系统。
- 
-图3-4 项目系统主页展示
+
+![img](file:///C:/WINDOWS/TEMP/msohtmlclip1/01/clip_image004.gif)
+
 查看有效灌溉面积的可视化。
- 
-图3-5 有效灌溉面积可视化展示
+
+![img](file:///C:/WINDOWS/TEMP/msohtmlclip1/01/clip_image006.gif)
+
 查看近20年受灾面积的可视化。
- 
-图3-6 受灾面积可视化展示
+
+![img](file:///C:/WINDOWS/TEMP/msohtmlclip1/01/clip_image008.gif)
+
 查看全国各省农用化肥使用量。
- 
-图3-7 农用化肥使用量可视化。
+
+![img](file:///C:/WINDOWS/TEMP/msohtmlclip1/01/clip_image010.gif)
+
+图3-7 农用化肥使用量可视化
